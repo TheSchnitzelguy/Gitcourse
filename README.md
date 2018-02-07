@@ -1,3 +1,5 @@
+## GIEL
+
 # Git Collaboration 
 
 The purpose of this practical is to simulate how a collaborative git work flow would operate in the 'real word'.
